@@ -21,7 +21,7 @@ except ImportError as e:
 
 versi = "1.2"
 
-print """
+print("""
     :::       ::: ::::::::::: :::::::::: 
    :+:       :+:     :+:     :+:         
   +:+       +:+     +:+     +:+          
@@ -30,7 +30,7 @@ print """
 #+#+# #+#+#      #+#     #+#             
 ###   ###       ###     ###  Web Toolkit Framework
 
-"""
+""")
 def info():
     print """[*] WTF V """+versi+""" ( Web Toolkit Framework )
 [*] Devloped By ./Xi4u7
